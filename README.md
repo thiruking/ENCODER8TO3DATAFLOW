@@ -34,9 +34,7 @@ Logical circuit of the above expressions is given below:
 
 Figure 02  Encoder 8 * 3
 
-**Procedure**
 
-/* write all the steps invloved */
 
 **PROGRAM**
 ```
@@ -62,5 +60,6 @@ Developed by: RegisterNumber:24900491
 **RESULTS**
 
 
+  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables is verified.
 
 
